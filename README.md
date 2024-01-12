@@ -6,4 +6,4 @@ Welcome to the GitHub repository showcasing my work during my academic journey i
 📂 Folder Structure:
 - convex-optim: [Convex optimization and applications in machine learning](https://www.di.ens.fr/~aspremon/OptConvexeM2.html) class held at ENS Ulm by Alexandre d'Aspremont (CNRS & Ecole Polytechnique)  
 
-- proba-graph-models: Projet done as part of the [class](https://lmbp.uca.fr/~latouche/mva/IntroductiontoProbabilisticGraphicalModelsMVA.html) held by Pierre Latouche and Pierre-Alexandre Mattei (UCA+Ecole Polytechnique, INRIA) on the subject of score-based generative modeling.
+- proba-graph-models: [Probabilistic Graphical Models and Deep Generative Models](https://lmbp.uca.fr/~latouche/mva/IntroductiontoProbabilisticGraphicalModelsMVA.html) class held by Pierre Latouche and Pierre-Alexandre Mattei (UCA+Ecole Polytechnique, INRIA). The project on the subject of score-based generative modeling.
